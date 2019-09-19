@@ -795,3 +795,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.19-18.36.15:447][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DAssets/3DModels/WaveIdol]
 [2019.09.19-18.36.15:493][ 10]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/WaveIdol_Auto3C280A32E495C823627DB6ABD4CB2FA96.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Autosaves/Game/3DAssets/3DModels/WaveIdol_Auto3.uasset'
 [2019.09.19-18.36.15:493][ 10]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.09.19-18.50.29:147][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/WaveIdol.WaveIdol
+[2019.09.19-19.00.52:151][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-19.00.52:252][ 63]LogSlate: Window 'WaveIdol' being destroyed
+[2019.09.19-19.00.52:257][ 63]LogSlate: Window 'WaveIdol' being destroyed
+[2019.09.19-19.00.52:257][ 63]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-19.01.00:685][934]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-19.01.03:097][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.09.19-19.01.04:746][200]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.19-19.01.04:804][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.19-19.01.09:580][313]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/AirIdol.fbx)
+[2019.09.19-19.01.09:590][313]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/AirIdol.fbx
+[2019.09.19-19.01.09:601][313]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-19.01.10:647][313]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-19.01.10:664][313]LogFbx: Display: Triangulating static mesh Circle
+[2019.09.19-19.01.11:242][313]LogStaticMesh: Building static mesh AirIdol...
+[2019.09.19-19.01.11:607][313]LogStaticMesh: Built static mesh [0.36s] /Game/3DAssets/3DModels/AirIdol.AirIdol
+[2019.09.19-19.01.11:641][313]LogStaticMesh: Warning: AirIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-19.01.11:641][313]LogStaticMesh: Warning: AirIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-19.01.11:682][313]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-19.01.11:682][313]FBXImport: Warning: AirIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-19.01.11:682][313]FBXImport: Warning: AirIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-19.01.14:198][600]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-19.01.14:203][600]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-19.01.18:720][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-19.01.23:480][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/AirIdol.AirIdol
+[2019.09.19-19.01.52:971][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-19.01.53:063][905]BlueprintLog: New page: Compile AirIdol
+[2019.09.19-19.01.53:203][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.09.19-19.01.53:609][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/AirIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/AirIdol.uasset" SILENT=true
+[2019.09.19-19.01.53:627][946]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/AirIdolC693E38C4978C7663F7FEAACCCBD33CD.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/AirIdol.uasset'
+[2019.09.19-19.01.54:946][ 95]LogSlate: Window 'AirIdol' being destroyed
+[2019.09.19-19.01.54:949][ 95]LogSlate: Window 'AirIdol' being destroyed
+[2019.09.19-19.01.54:959][ 95]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-19.01.58:347][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.09.19-19.01.58:358][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/3DModels/WaveIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/WaveIdol.uasset" SILENT=true
+[2019.09.19-19.01.58:386][493]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/WaveIdol6D04D289493E9CED73B7B583FF196DA3.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/WaveIdol.uasset'
+[2019.09.19-19.01.58:398][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/3DModels/AirIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/AirIdol.uasset" SILENT=true
+[2019.09.19-19.01.58:436][493]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/AirIdol6403318F4F425FA0AE7A21AA1377CC00.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/AirIdol.uasset'
