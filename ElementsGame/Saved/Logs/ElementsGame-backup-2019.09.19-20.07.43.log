@@ -1,0 +1,835 @@
+﻿Log file open, 09/19/19 12:54:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ElementsGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.058742
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.19-16.54.25:612][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.19-16.54.25:613][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.19-16.54.25:613][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.19-16.54.25:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:613][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:622][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.19-16.54.25:622][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.19-16.54.25:623][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.19-16.54.25:623][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.19-16.54.25:623][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.19-16.54.25:625][  0]LogHAL: Display: Platform has ~ 16 GB [17141702656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.19-16.54.25:625][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.19-16.54.25:626][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.19-16.54.25:627][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.19-16.54.25:627][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.19-16.54.25:627][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Config/Windows/Engine.ini]
+[2019.09.19-16.54.25:627][  0]LogInit: Computer: DESKTOP-0QJRT3Q
+[2019.09.19-16.54.25:627][  0]LogInit: User: apio9009
+[2019.09.19-16.54.25:627][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.19-16.54.25:627][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.19-16.54.25:627][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.09.19-16.54.25:627][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.19-16.54.25:627][  0]LogMemory: Process Physical Memory: 103.59 MB used, 103.59 MB peak
+[2019.09.19-16.54.25:627][  0]LogMemory: Process Virtual Memory: 100.13 MB used, 100.13 MB peak
+[2019.09.19-16.54.25:627][  0]LogMemory: Physical Memory: 6649.50 MB used,  9698.10 MB free, 16347.60 MB total
+[2019.09.19-16.54.25:627][  0]LogMemory: Virtual Memory: 4655.98 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.09.19-16.54.25:630][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.19-16.54.25:647][  0]LogInit: Using OS detected language (en-US).
+[2019.09.19-16.54.25:647][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.19-16.54.25:647][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.19-16.54.25:829][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.19-16.54.25:829][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.19-16.54.25:951][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.19-16.54.25:951][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.19-16.54.26:008][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.09.19-16.54.26:008][  0]LogD3D11RHI:       1977/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.09.19-16.54.26:010][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.19-16.54.26:010][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.19-16.54.26:010][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.19-16.54.26:016][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.19-16.54.26:016][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.19-16.54.26:016][  0]LogWindows: EnumDisplayDevices:
+[2019.09.19-16.54.26:017][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.09.19-16.54.26:017][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2019.09.19-16.54.26:017][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2019.09.19-16.54.26:017][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.09.19-16.54.26:017][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.19-16.54.26:017][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.09.19-16.54.26:017][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.09.19-16.54.26:017][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.09.19-16.54.26:017][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2019.09.19-16.54.26:050][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.19-16.54.26:075][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.09.19-16.54.26:426][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.19-16.54.26:432][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.19-16.54.26:439][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.19-16.54.26:444][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.19-16.54.26:451][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.19-16.54.26:457][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.19-16.54.26:464][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.19-16.54.26:470][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.19-16.54.26:474][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.19-16.54.26:500][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.19-16.54.26:500][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.19-16.54.26:501][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.19-16.54.26:502][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.19-16.54.26:514][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.19-16.54.26:514][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.19-16.54.26:526][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.19-16.54.26:526][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.19-16.54.26:531][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.19-16.54.26:537][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.19-16.54.26:543][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.19-16.54.26:549][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.19-16.54.26:569][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.19-16.54.26:569][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.19-16.54.26:569][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.19-16.54.26:575][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.19-16.54.26:608][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/apio9009/Documents/4Elements/ElementsGame/Intermediate/Shaders/WorkingDirectory/5840/).
+[2019.09.19-16.54.26:608][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/apio9009/AppData/Local/Temp/UnrealShaderWorkingDir/33D524E64C5B35516DF2ABA4DBBD8EA7/'.
+[2019.09.19-16.54.26:610][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.19-16.54.26:610][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.19-16.54.26:610][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.19-16.54.27:137][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.19-16.54.27:187][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/apio9009/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.19-16.54.27:188][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/apio9009/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.19-16.54.27:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/apio9009/Documents/4Elements/ElementsGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.19-16.54.27:188][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.19-16.54.27:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/apio9009/Documents/4Elements/ElementsGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.19-16.54.27:188][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.19-16.54.27:198][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.19-16.54.27:198][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.19-16.54.27:198][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.19-16.54.27:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/apio9009/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.19-16.54.27:199][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.19-16.54.27:199][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.19-16.54.27:588][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.19-16.54.27:590][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.19-16.54.27:590][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.19-16.54.27:632][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2019.09.19-16.54.27:857][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.19-16.54.27:989][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.19-16.54.27:989][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.19-16.54.27:989][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.19-16.54.27:989][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.19-16.54.27:989][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.19-16.54.27:997][  0]LogNetVersion: ElementsGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 292868701)
+[2019.09.19-16.54.28:536][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.052608 seconds
+[2019.09.19-16.54.28:543][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.19-16.54.28:543][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.19-16.54.28:543][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.19-16.54.29:352][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.19-16.54.29:354][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.19-16.54.29:408][  0]SourceControl: Source control is disabled
+[2019.09.19-16.54.29:408][  0]SourceControl: Source control is disabled
+[2019.09.19-16.54.29:409][  0]SourceControl: Source control is disabled
+[2019.09.19-16.54.29:410][  0]SourceControl: Source control is disabled
+[2019.09.19-16.54.29:483][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.19-16.54.29:714][  0]LogOcInput: OculusInput pre-init called
+[2019.09.19-16.54.29:719][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.19-16.54.29:720][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.19-16.54.29:801][  0]LogEngine: Initializing Engine...
+[2019.09.19-16.54.29:801][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.19-16.54.29:802][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.19-16.54.30:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.19-16.54.30:221][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.19-16.54.30:266][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-16.54.30:295][  0]LogInit: FAudioDevice initialized.
+[2019.09.19-16.54.30:295][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.19-16.54.30:369][  0]LogDerivedDataCache: Saved boot cache 0.07s 90MB C:/Users/apio9009/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.19-16.54.30:378][  0]LogInit: Texture streaming: Enabled
+[2019.09.19-16.54.30:390][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.19-16.54.30:460][  0]LogInit: Transaction tracking system initialized
+[2019.09.19-16.54.30:478][  0]BlueprintLog: New page: Editor Load
+[2019.09.19-16.54.30:523][  0]LocalizationService: Localization service is disabled
+[2019.09.19-16.54.30:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/' took 0.01s
+[2019.09.19-16.54.30:888][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.19-16.54.30:888][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.19-16.54.31:041][  0]SourceControl: Source control is disabled
+[2019.09.19-16.54.31:041][  0]Cmd: MAP LOAD FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.19-16.54.31:041][  0]LightingResults: New page: Lighting Build
+[2019.09.19-16.54.31:043][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-16.54.31:043][  0]MapCheck: New page: Map Check
+[2019.09.19-16.54.31:043][  0]LightingResults: New page: Lighting Build
+[2019.09.19-16.54.31:064][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.09.19-16.54.31:465][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.09.19-16.54.31:620][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.19-16.54.31:641][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.09.19-16.54.31:641][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.19-16.54.31:641][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2019.09.19-16.54.31:641][  0]LogFileHelpers: Loading map 'StartupMap' took 0.601
+[2019.09.19-16.54.32:497][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-16.54.32:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-16.54.32:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-16.54.32:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-16.54.32:571][  0]LogCollectionManager: Loaded 0 collections in 0.001339 seconds
+[2019.09.19-16.54.32:619][  0]LogFileCache: Scanning file cache for directory 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Collections/' took 0.00s
+[2019.09.19-16.54.32:619][  0]LogFileCache: Scanning file cache for directory 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/Developers/apio9009/Collections/' took 0.00s
+[2019.09.19-16.54.32:619][  0]LogFileCache: Scanning file cache for directory 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/Collections/' took 0.00s
+[2019.09.19-16.54.32:619][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.19-16.54.32:625][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2863 classes and 680 folders.
+[2019.09.19-16.54.32:654][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.19-16.54.33:417][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.19-16.54.33:475][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.19-16.54.33:839][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.19-16.54.33:841][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.19-16.54.33:891][  0]LogSlate: Took 0.021430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.19-16.54.34:267][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2019.09.19-16.54.34:476][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.19-16.54.34:476][  0]LogLoad: (Engine Initialization) Total time: 9.59 seconds
+[2019.09.19-16.54.34:476][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.19-16.54.34:557][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.19-16.54.34:624][  0]LogSlate: Took 0.014275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.19-16.54.34:743][  2]LogAssetRegistry: Asset discovery search completed in 7.1122 seconds
+[2019.09.19-16.54.34:746][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.09.19-16.54.34:746][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2019.09.19-16.54.39:239][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-16.54.53:328][707]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.19-16.54.53:394][707]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/meteorIdol.fbx)
+[2019.09.19-16.54.53:578][707]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/meteorIdol.fbx
+[2019.09.19-16.54.53:602][707]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-16.55.01:474][707]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-16.55.01:603][707]LogFbx: Display: Triangulating static mesh Circle
+[2019.09.19-16.55.01:880][707]LogStaticMesh: Building static mesh meteorIdol_Circle...
+[2019.09.19-16.55.02:055][707]LogStaticMesh: Built static mesh [0.16s] /Game/3DAssets/3DModels/meteorIdol_Circle.meteorIdol_Circle
+[2019.09.19-16.55.02:092][707]LogStaticMesh: Warning: meteorIdol_Circle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-16.55.02:092][707]LogStaticMesh: Warning: meteorIdol_Circle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-16.55.02:130][707]LogFbx: Display: Triangulating static mesh Icosphere.001
+[2019.09.19-16.55.02:206][707]LogStaticMesh: Building static mesh meteorIdol_Icosphere_001...
+[2019.09.19-16.55.02:225][707]LogStaticMesh: Built static mesh [0.02s] /Game/3DAssets/3DModels/meteorIdol_Icosphere_001.meteorIdol_Icosphere_001
+[2019.09.19-16.55.02:256][707]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-16.55.02:256][707]FBXImport: Warning: meteorIdol_Circle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-16.55.02:256][707]FBXImport: Warning: meteorIdol_Circle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-16.55.06:642][204]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-16.55.06:645][204]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-16.55.09:044][489]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/3DAssets/3DModels/meteorIdol_Circle.meteorIdol_Circle
+[2019.09.19-16.55.10:287][489]LogSlate: Took 0.018976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.19-16.55.17:764][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-16.55.17:948][376]LogSlate: Window 'meteorIdol_Circle' being destroyed
+[2019.09.19-16.55.17:952][376]LogSlate: Window 'meteorIdol_Circle' being destroyed
+[2019.09.19-16.55.17:953][376]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-16.56.57:284][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.19-16.56.58:441][178]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.19-16.56.58:531][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.09.19-16.57.01:462][269]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/meteorIdol.fbx)
+[2019.09.19-16.57.01:472][269]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/meteorIdol.fbx
+[2019.09.19-16.57.01:480][269]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-16.57.02:841][269]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-16.57.02:856][269]LogFbx: Display: Triangulating static mesh Circle
+[2019.09.19-16.57.03:035][269]LogStaticMesh: Building static mesh meteorIdol_Circle...
+[2019.09.19-16.57.03:112][269]LogStaticMesh: Built static mesh [0.08s] /Game/3DAssets/3DModels/meteorIdol_Circle.meteorIdol_Circle
+[2019.09.19-16.57.03:120][269]LogStaticMesh: Warning: meteorIdol_Circle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-16.57.03:120][269]LogStaticMesh: Warning: meteorIdol_Circle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-16.57.03:132][269]LogFbx: Display: Triangulating static mesh Icosphere.001
+[2019.09.19-16.57.03:209][269]LogStaticMesh: Building static mesh meteorIdol_Icosphere_001...
+[2019.09.19-16.57.03:228][269]LogStaticMesh: Built static mesh [0.02s] /Game/3DAssets/3DModels/meteorIdol_Icosphere_001.meteorIdol_Icosphere_001
+[2019.09.19-16.57.03:251][269]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-16.57.03:251][269]FBXImport: Warning: meteorIdol_Circle has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-16.57.03:251][269]FBXImport: Warning: meteorIdol_Circle has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-16.57.05:372][519]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-16.57.05:377][519]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-16.57.08:658][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.09.19-16.57.10:364][895]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.19-16.57.10:448][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.09.19-16.58.09:441][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/meteorIdol.fbx)
+[2019.09.19-16.58.09:452][354]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/meteorIdol.fbx
+[2019.09.19-16.58.09:458][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-16.58.10:820][354]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-16.58.10:837][354]LogFbx: Display: Triangulating static mesh Icosphere.001
+[2019.09.19-16.58.11:101][354]LogStaticMesh: Building static mesh meteorIdol...
+[2019.09.19-16.58.11:216][354]LogStaticMesh: Built static mesh [0.12s] /Game/3DAssets/3DModels/meteorIdol.meteorIdol
+[2019.09.19-16.58.11:228][354]LogStaticMesh: Warning: meteorIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-16.58.11:228][354]LogStaticMesh: Warning: meteorIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-16.58.11:246][354]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-16.58.11:247][354]FBXImport: Warning: meteorIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-16.58.11:247][354]FBXImport: Warning: meteorIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-16.58.14:775][771]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-16.58.14:777][771]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-16.58.35:883][138]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-16.58.41:958][861]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/StoneIdol.StoneIdol
+[2019.09.19-16.58.42:650][861]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.09.19-16.58.52:148][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-16.58.52:248][808]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-16.58.52:252][808]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-16.58.52:288][808]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-16.58.53:260][916]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/StoneIdol.StoneIdol
+[2019.09.19-16.58.56:336][250]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-16.58.56:346][250]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-16.58.56:376][250]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/StoneIdol.StoneIdol
+[2019.09.19-16.58.56:642][250]LogSlate: Took 0.024726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.19-16.58.58:586][436]LogRenderer: Reallocating scene render targets to support 1208x900 Format 26 NumSamples 1 (Frame:1).
+[2019.09.19-16.59.02:077][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.19-17.00.41:292][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.00.59:587][573]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2019.09.19-17.00.59:696][573]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.09.19-17.00.59:696][573]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2019.09.19-17.00.59:696][573]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2019.09.19-17.01.05:475][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.01.05:587][144]BlueprintLog: New page: Compile StoneIdol
+[2019.09.19-17.01.05:903][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.09.19-17.01.14:005][919]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.09.19-17.01.14:078][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/StoneIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/StoneIdol.uasset" SILENT=true
+[2019.09.19-17.01.14:135][924]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/StoneIdol4E4007A849F1849AF169C7844948F92D.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/StoneIdol.uasset'
+[2019.09.19-17.01.15:492][ 55]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-17.01.15:495][ 55]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-17.01.15:506][ 55]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-17.01.17:206][248]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/StoneIdol.StoneIdol
+[2019.09.19-17.01.47:822][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.01.47:891][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/StoneIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/StoneIdol.uasset" SILENT=true
+[2019.09.19-17.01.47:908][749]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/StoneIdol084D041D42FCA5A49B050280B5DB3C65.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/StoneIdol.uasset'
+[2019.09.19-17.04.34:976][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.09.19-17.04.34:976][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.051
+[2019.09.19-17.04.34:977][837]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DAssets/3DModels/meteorIdol] ([1] browsable assets)...
+[2019.09.19-17.04.34:986][837]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3DAssets/3DModels/meteorIdol.meteorIdol]
+[2019.09.19-17.04.34:986][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DAssets/3DModels/meteorIdol]
+[2019.09.19-17.04.35:018][837]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/meteorIdol_Auto151583F55450A40F637FFA684994FF830.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Autosaves/Game/3DAssets/3DModels/meteorIdol_Auto1.uasset'
+[2019.09.19-17.04.35:019][837]LogFileHelpers: Auto-saving content packages took 0.043
+[2019.09.19-17.34.07:683][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.34.07:750][222]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-17.34.07:756][222]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-17.34.07:757][222]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-17.34.37:514][224]LogSlate: Window 'Message' being destroyed
+[2019.09.19-17.34.37:524][224]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/meteorIdol.fbx)
+[2019.09.19-17.34.37:545][224]LogEditorFactories: Performing atomic reimport of [C:/Users/apio9009/Documents/meteorIdol.fbx]
+[2019.09.19-17.34.37:560][224]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/meteorIdol.fbx
+[2019.09.19-17.34.37:608][224]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-17.34.37:617][224]LogFbx: Display: Triangulating static mesh Icosphere
+[2019.09.19-17.34.42:027][224]LogStaticMesh: Building static mesh meteorIdol...
+[2019.09.19-17.34.43:100][224]LogStaticMesh: Built static mesh [1.07s] /Game/3DAssets/3DModels/meteorIdol.meteorIdol
+[2019.09.19-17.34.43:402][224]LogStaticMesh: Warning: meteorIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-17.34.43:402][224]LogStaticMesh: Warning: meteorIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-17.34.43:700][224]LogEditorFactories: -- imported successfully
+[2019.09.19-17.34.43:709][224]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-17.34.43:709][224]FBXImport: Warning: meteorIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-17.34.43:709][224]FBXImport: Warning: meteorIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-17.34.47:466][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.09.19-17.34.47:466][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.050
+[2019.09.19-17.34.47:468][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DAssets/3DModels/meteorIdol] ([1] browsable assets)...
+[2019.09.19-17.34.47:477][234]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3DAssets/3DModels/meteorIdol.meteorIdol]
+[2019.09.19-17.34.47:477][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DAssets/3DModels/meteorIdol]
+[2019.09.19-17.34.47:662][234]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/meteorIdol_Auto20C75BF5A4D3E81E5BDDBA58D63C34385.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Autosaves/Game/3DAssets/3DModels/meteorIdol_Auto2.uasset'
+[2019.09.19-17.34.47:663][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3DAssets/Prefabs/StoneIdol] ([1] browsable assets)...
+[2019.09.19-17.34.47:663][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DAssets/Prefabs/StoneIdol]
+[2019.09.19-17.34.47:678][234]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/StoneIdol_Auto20A4D798447C775F20478C09CEE06D20B.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Autosaves/Game/3DAssets/Prefabs/StoneIdol_Auto2.uasset'
+[2019.09.19-17.34.47:678][234]LogFileHelpers: Auto-saving content packages took 0.210
+[2019.09.19-17.35.10:779][628]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/stoneidol.fbx)
+[2019.09.19-17.35.10:789][628]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/stoneidol.fbx
+[2019.09.19-17.35.10:796][628]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-17.35.11:798][628]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-17.35.11:814][628]LogFbx: Display: Triangulating static mesh Icosphere.001
+[2019.09.19-17.35.12:075][628]LogStaticMesh: Building static mesh stoneidol...
+[2019.09.19-17.35.12:202][628]LogStaticMesh: Built static mesh [0.13s] /Game/3DAssets/3DModels/stoneidol.stoneidol
+[2019.09.19-17.35.12:217][628]LogStaticMesh: Warning: stoneidol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-17.35.12:217][628]LogStaticMesh: Warning: stoneidol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-17.35.12:244][628]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-17.35.12:244][628]FBXImport: Warning: stoneidol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-17.35.12:244][628]FBXImport: Warning: stoneidol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-17.35.14:269][865]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-17.35.14:272][865]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-17.35.29:220][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.09.19-17.35.29:220][631]LogMetaData: Removing '/Game/3DAssets/Prefabs/MeteorIdol.MeteorIdol:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/3DAssets/Prefabs/StoneIdol.PackageMetaData'
+[2019.09.19-17.35.29:220][631]LogMetaData: Removing '/Game/3DAssets/Prefabs/MeteorIdol.SKEL_MeteorIdol_C' ref from Metadata '/Game/3DAssets/Prefabs/StoneIdol.PackageMetaData'
+[2019.09.19-17.35.29:220][631]LogMetaData: Removing '/Game/3DAssets/Prefabs/MeteorIdol.MeteorIdol_C' ref from Metadata '/Game/3DAssets/Prefabs/StoneIdol.PackageMetaData'
+[2019.09.19-17.35.29:220][631]LogMetaData: Removing '/Game/3DAssets/Prefabs/MeteorIdol.MeteorIdol:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3DAssets/Prefabs/StoneIdol.PackageMetaData'
+[2019.09.19-17.35.29:220][631]LogMetaData: Removing '/Game/3DAssets/Prefabs/MeteorIdol.MeteorIdol:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3DAssets/Prefabs/StoneIdol.PackageMetaData'
+[2019.09.19-17.35.29:220][631]LogMetaData: Removing '/Game/3DAssets/Prefabs/MeteorIdol.MeteorIdol:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3DAssets/Prefabs/StoneIdol.PackageMetaData'
+[2019.09.19-17.35.29:251][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/MeteorIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/MeteorIdol.uasset" SILENT=true
+[2019.09.19-17.35.29:268][631]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/MeteorIdolA1CDC924468088079FCB08A64A7ADDB1.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/MeteorIdol.uasset'
+[2019.09.19-17.35.29:452][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.09.19-17.35.29:479][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.19-17.35.29:502][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.19-17.35.32:720][903]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-17.35.38:066][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/StoneIdol.StoneIdol
+[2019.09.19-17.35.44:696][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.19-17.35.46:910][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.19-17.35.50:350][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.19-17.36.04:771][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.19-17.36.08:110][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.36.10:736][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.36.10:845][260]BlueprintLog: New page: Compile StoneIdol
+[2019.09.19-17.36.10:987][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.19-17.36.11:484][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/StoneIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/StoneIdol.uasset" SILENT=true
+[2019.09.19-17.36.11:499][310]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/StoneIdol10436DF64F424747C8DEF895E670D2DD.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/StoneIdol.uasset'
+[2019.09.19-17.36.13:052][487]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-17.36.13:055][487]LogSlate: Window 'StoneIdol' being destroyed
+[2019.09.19-17.36.13:064][487]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-17.36.14:199][618]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/MeteorIdol.MeteorIdol
+[2019.09.19-17.36.34:676][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-17.36.34:759][ 10]BlueprintLog: New page: Compile MeteorIdol
+[2019.09.19-17.36.34:899][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.09.19-17.36.35:207][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/MeteorIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/MeteorIdol.uasset" SILENT=true
+[2019.09.19-17.36.35:229][ 41]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/MeteorIdol320AD37D446A298BDAD08F87ACBDD14F.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/MeteorIdol.uasset'
+[2019.09.19-17.36.36:652][210]LogSlate: Window 'MeteorIdol' being destroyed
+[2019.09.19-17.36.36:656][210]LogSlate: Window 'MeteorIdol' being destroyed
+[2019.09.19-17.36.36:666][210]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-17.36.40:929][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.09.19-17.36.40:940][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/3DModels/meteorIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/meteorIdol.uasset" SILENT=true
+[2019.09.19-17.36.41:107][707]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/meteorIdolA57ABCA7454B2123E9788F94308842A4.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/meteorIdol.uasset'
+[2019.09.19-17.36.41:120][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/3DModels/stoneidol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/stoneidol.uasset" SILENT=true
+[2019.09.19-17.36.41:149][707]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/stoneidol057A4DFD4241CAA69471E2A584EB9B0D.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/stoneidol.uasset'
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF7E09FF-406F-DF75-6140-A385F13E391B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=01f6c82c413d855606b187b71ea6ee95%7C938f8afad6b34caeb41594281feeec35%7C9f3f2dff-8444-4e10-b235-6f8335a9f43a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: request failed, libcurl error: 0 (No error)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bcd766ff70 [can pipeline])
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.16.28) port 443 (#26))
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 7 (Closing connection 26)
+[2019.09.19-17.40.34:740][235]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.19-17.40.35:081][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF7E09FF-406F-DF75-6140-A385F13E391B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=01f6c82c413d855606b187b71ea6ee95%7C938f8afad6b34caeb41594281feeec35%7C9f3f2dff-8444-4e10-b235-6f8335a9f43a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF7E09FF-406F-DF75-6140-A385F13E391B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=01f6c82c413d855606b187b71ea6ee95%7C938f8afad6b34caeb41594281feeec35%7C9f3f2dff-8444-4e10-b235-6f8335a9f43a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: request failed, libcurl error: 0 (No error)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bcd766ff70 [can pipeline])
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 1 (Re-using existing connection! (#44) with host datarouter.ol.epicgames.com)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.54.50) port 443 (#44))
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 7 (Closing connection 44)
+[2019.09.19-18.16.34:613][681]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.19-18.16.34:945][682]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF7E09FF-406F-DF75-6140-A385F13E391B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=01f6c82c413d855606b187b71ea6ee95%7C938f8afad6b34caeb41594281feeec35%7C9f3f2dff-8444-4e10-b235-6f8335a9f43a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF7E09FF-406F-DF75-6140-A385F13E391B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=01f6c82c413d855606b187b71ea6ee95%7C938f8afad6b34caeb41594281feeec35%7C9f3f2dff-8444-4e10-b235-6f8335a9f43a&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: request failed, libcurl error: 0 (No error)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bcd766ff70 [can pipeline])
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 1 (Re-using existing connection! (#48) with host datarouter.ol.epicgames.com)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.123.101) port 443 (#48))
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 7 (Closing connection 48)
+[2019.09.19-18.27.34:664][650]LogHttp: Warning: 000001BCCC2AA480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.19-18.27.34:665][650]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF7E09FF-406F-DF75-6140-A385F13E391B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=01f6c82c413d855606b187b71ea6ee95%7C938f8afad6b34caeb41594281feeec35%7C9f3f2dff-8444-4e10-b235-6f8335a9f43a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.19-18.35.01:183][413]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/WaveIdol.fbx)
+[2019.09.19-18.35.01:194][413]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/WaveIdol.fbx
+[2019.09.19-18.35.01:203][413]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-18.35.02:381][413]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-18.35.02:401][413]LogFbx: Display: Triangulating static mesh Circle
+[2019.09.19-18.35.02:834][413]LogStaticMesh: Building static mesh WaveIdol...
+[2019.09.19-18.35.03:020][413]LogStaticMesh: Built static mesh [0.19s] /Game/3DAssets/3DModels/WaveIdol.WaveIdol
+[2019.09.19-18.35.03:041][413]LogStaticMesh: Warning: WaveIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-18.35.03:041][413]LogStaticMesh: Warning: WaveIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-18.35.03:069][413]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-18.35.03:070][413]FBXImport: Warning: WaveIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-18.35.03:070][413]FBXImport: Warning: WaveIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-18.35.05:267][664]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-18.35.05:271][664]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-18.35.11:259][266]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-18.35.17:149][967]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/WaveIdol.WaveIdol
+[2019.09.19-18.35.46:178][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-18.35.46:838][273]BlueprintLog: New page: Compile WaveIdol
+[2019.09.19-18.35.46:984][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.09.19-18.35.47:900][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/WaveIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/WaveIdol.uasset" SILENT=true
+[2019.09.19-18.35.47:916][371]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/WaveIdol49ED0A714351D54F1B5DDBB5D70B8EC6.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/WaveIdol.uasset'
+[2019.09.19-18.35.49:787][576]LogSlate: Window 'WaveIdol' being destroyed
+[2019.09.19-18.35.49:790][576]LogSlate: Window 'WaveIdol' being destroyed
+[2019.09.19-18.35.49:800][576]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-18.36.15:430][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.09.19-18.36.15:430][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.030
+[2019.09.19-18.36.15:431][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3DAssets/3DModels/WaveIdol] ([1] browsable assets)...
+[2019.09.19-18.36.15:447][ 10]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3DAssets/3DModels/WaveIdol.WaveIdol]
+[2019.09.19-18.36.15:447][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/3DAssets/3DModels/WaveIdol]
+[2019.09.19-18.36.15:493][ 10]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/WaveIdol_Auto3C280A32E495C823627DB6ABD4CB2FA96.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/Autosaves/Game/3DAssets/3DModels/WaveIdol_Auto3.uasset'
+[2019.09.19-18.36.15:493][ 10]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.09.19-18.50.29:147][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/WaveIdol.WaveIdol
+[2019.09.19-19.00.52:151][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-19.00.52:252][ 63]LogSlate: Window 'WaveIdol' being destroyed
+[2019.09.19-19.00.52:257][ 63]LogSlate: Window 'WaveIdol' being destroyed
+[2019.09.19-19.00.52:257][ 63]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-19.01.00:685][934]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-19.01.03:097][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.09.19-19.01.04:746][200]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.19-19.01.04:804][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.19-19.01.09:580][313]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/apio9009/Documents/AirIdol.fbx)
+[2019.09.19-19.01.09:590][313]LogFbx: Loading FBX Scene from C:/Users/apio9009/Documents/AirIdol.fbx
+[2019.09.19-19.01.09:601][313]LogFbx: FBX Scene Loaded Succesfully
+[2019.09.19-19.01.10:647][313]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.09.19-19.01.10:664][313]LogFbx: Display: Triangulating static mesh Circle
+[2019.09.19-19.01.11:242][313]LogStaticMesh: Building static mesh AirIdol...
+[2019.09.19-19.01.11:607][313]LogStaticMesh: Built static mesh [0.36s] /Game/3DAssets/3DModels/AirIdol.AirIdol
+[2019.09.19-19.01.11:641][313]LogStaticMesh: Warning: AirIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.09.19-19.01.11:641][313]LogStaticMesh: Warning: AirIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.09.19-19.01.11:682][313]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.09.19-19.01.11:682][313]FBXImport: Warning: AirIdol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.09.19-19.01.11:682][313]FBXImport: Warning: AirIdol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.09.19-19.01.14:198][600]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-19.01.14:203][600]LogSlate: Window 'Message Log' being destroyed
+[2019.09.19-19.01.18:720][ 28]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.09.19-19.01.23:480][584]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/3DAssets/Prefabs/AirIdol.AirIdol
+[2019.09.19-19.01.52:971][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-19.01.53:063][905]BlueprintLog: New page: Compile AirIdol
+[2019.09.19-19.01.53:203][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.09.19-19.01.53:609][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/Prefabs/AirIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/AirIdol.uasset" SILENT=true
+[2019.09.19-19.01.53:627][946]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/AirIdolC693E38C4978C7663F7FEAACCCBD33CD.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/Prefabs/AirIdol.uasset'
+[2019.09.19-19.01.54:946][ 95]LogSlate: Window 'AirIdol' being destroyed
+[2019.09.19-19.01.54:949][ 95]LogSlate: Window 'AirIdol' being destroyed
+[2019.09.19-19.01.54:959][ 95]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-19.01.58:347][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.09.19-19.01.58:358][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/3DModels/WaveIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/WaveIdol.uasset" SILENT=true
+[2019.09.19-19.01.58:386][493]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/WaveIdol6D04D289493E9CED73B7B583FF196DA3.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/WaveIdol.uasset'
+[2019.09.19-19.01.58:398][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3DAssets/3DModels/AirIdol" FILE="C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/AirIdol.uasset" SILENT=true
+[2019.09.19-19.01.58:436][493]LogSavePackage: Moving 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Saved/AirIdol6403318F4F425FA0AE7A21AA1377CC00.tmp' to 'C:/Users/apio9009/Documents/4Elements/ElementsGame/Content/3DAssets/3DModels/AirIdol.uasset'
