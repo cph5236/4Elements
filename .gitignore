@@ -1,4 +1,5 @@
 
+<<<<<<< Updated upstream
 *.ini
 *.bin
 ElementsGame/Intermediate/CachedAssetRegistry.bin
@@ -12,4 +13,10 @@ ElementsGame/Saved/Logs/ElementsGame.log
 ElementsGame/Saved/AutoScreenshot.png
 ElementsGame/Intermediate/CachedAssetRegistry.bin
 ElementsGame/Intermediate/CachedAssetRegistry.bin
+=======
+ElementsGame/Intermediate/CachedAssetRegistry.bin
+ElementsGame/Saved/AutoScreenshot.png
+ElementsGame/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+ElementsGame/Saved/Config/Windows/Engine.ini
+>>>>>>> Stashed changes
 ElementsGame/Saved/Logs/ElementsGame.log
